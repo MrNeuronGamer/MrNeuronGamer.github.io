@@ -13,11 +13,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # **Хорошилов Дмитрий Андреевич**
 
-[PDF версия CV](https://cloud.mail.ru/public/39BS/9tbXXiWyV).
+[PDF версия CV](https://cloud.mail.ru/public/39BS/9tbXXiWyV)
 
 **Trainee Data Scientist в компании Raiffeisenbank Russia**
 
  **Portfolio Management and Analytics Department**
+
 ![RaifLogo](https://github.com/MrNeuronGamer/MrNeuronGamer.github.io/blob/master/logo.jpg)
 
 
