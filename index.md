@@ -9,6 +9,10 @@
 
 ![RaifLogo](https://github.com/MrNeuronGamer/MrNeuronGamer.github.io/blob/master/raiffeisen-bank.png?raw=true)
 
+### Контакты
+
+**e-mail:**  khoroshilov.dmitry@mail.ru 
+
 
 ## Общая информация
 
