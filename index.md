@@ -3,7 +3,7 @@
 
 [PDF версия CV](https://cloud.mail.ru/public/39BS/9tbXXiWyV)
 
-**Trainee Data Scientist в компании Raiffeisenbank Russia**
+**Trainee Data Scientist в компании Raiffeisen Bank Russia**
 
  **Portfolio Management and Analytics Department**
 
