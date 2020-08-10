@@ -16,8 +16,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 [PDF версия CV](https://cloud.mail.ru/public/39BS/9tbXXiWyV).
 
 **Trainee Data Scientist в компании Raiffeisenbank Russia**
+
  **Portfolio Management and Analytics Department**
-![RaifLogo](https://www.google.com/url?sa=i&url=https%3A%2F%2Flenta.ru%2Fnews%2F2006%2F04%2F11%2Fraiffeisen%2F&psig=AOvVaw1Dy1wLLZ3G-oEep4uKVO8C&ust=1597148958197000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKifyNTRkOsCFQAAAAAdAAAAABAS)
+![RaifLogo](https://github.com/MrNeuronGamer/MrNeuronGamer.github.io/blob/master/logo.jpg)
 
 
 ## Общая информация
@@ -38,6 +39,7 @@ VSA на MQL5 + **Python**.
 ## Опыт работы
 
 **Raiffeisen Bank Russia (с 13.01.2020 )**
+
 • Trainee Data Science Analyst
 Portfolio Management and Analytics Department
 #### Задачи: 
