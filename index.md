@@ -10,6 +10,54 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
+
+# **Хорошилов Дмитрий Андреевич**
+
+[PDF версия CV](https://cloud.mail.ru/public/39BS/9tbXXiWyV).
+
+**Trainee Data Scientist в компании Raiffeisenbank Russia**
+ **Portfolio Management and Analytics Department**
+![RaifLogo](https://www.google.com/url?sa=i&url=https%3A%2F%2Flenta.ru%2Fnews%2F2006%2F04%2F11%2Fraiffeisen%2F&psig=AOvVaw1Dy1wLLZ3G-oEep4uKVO8C&ust=1597148958197000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKifyNTRkOsCFQAAAAAdAAAAABAS)
+
+
+## Общая информация
+
+Разрабатываю и пишу код на языках программирования: **С/С++** ,**Python**.
+Пишу запросы к базам данных с помощью: **SQL**, **SAS**.
+Знаком и работаю с классическими пакетами для анализа данных, разработки и визуализации (**scikit-learn**,
+**statsmodels**, **pandas**, **numpy**, **matplotlib**, **seaborn**),
+с пакетами распределённого анализа (**dask**), парсинга (**Beautiful Soup**) и автоматического теститрования
+(**selenium**).
+Разрабатываю ML модели временных рядов для риск-параметров в финансовой организации.
+Занимался реализацией систем распределённых научных вычислений с применением решений **MPI** и
+**OpenMP**,
+Есть опыт разработки роботов для автоматизированной биржевой торговли с элементами анализа PA &
+VSA на MQL5 + **Python**.
+Знаком с системами контроля версий: **Git** **(GitHub / Bitbucket)**
+
+## Опыт работы
+
+**Raiffeisen Bank Russia (с 13.01.2020 )**
+• Trainee Data Science Analyst
+Portfolio Management and Analytics Department
+#### Задачи: 
+Разработка моделей на временных рядах риск-параметров, формулирование и тестирование гипотез,
+подготовка данных, разработка алгоритмов для предобработки данных, интерпретация моделей в
+соответствии с бизнес-логикой задачи, документирование разработки.
+
+## Образование
+
+**09.2015 - 05.2020 МГУ им. М.В. Ломоносова, Физический факультет**
+* Бакалавр
+
+## Языки
+
+* Английский (B2+ / Upper-Intermediate)
+
+
+
+
+
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
