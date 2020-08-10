@@ -7,7 +7,7 @@
 
  **Portfolio Management and Analytics Department**
 
-![RaifLogo](https://cdn-www.infobip.com/wp-content/uploads/2019/11/26174307/raiffeisen-bank.png)
+![RaifLogo](https://github.com/MrNeuronGamer/MrNeuronGamer.github.io/blob/master/raiffeisen-bank.png?raw=true)
 
 
 ## Общая информация
