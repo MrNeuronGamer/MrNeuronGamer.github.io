@@ -1,7 +1,7 @@
 
 # **Хорошилов Дмитрий Андреевич**
 
-[PDF версия CV](https://cloud.mail.ru/public/39BS/9tbXXiWyV)
+[PDF версия CV](https://github.com/MrNeuronGamer/MrNeuronGamer.github.io/raw/master/Khoroshilov%20Dmitry%20CV.pdf)
 
 **Trainee Data Scientist в компании Raiffeisen Bank Russia**
 
